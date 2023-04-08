@@ -1,1 +1,2 @@
 # Yulu
+Yulu is an India based company that introduced Micro Mobility Vehicles (MMVs) to Indian cities.Yulu is empowering residents in Indian cities to create a paradigm shift in the mobility industry, by making the urban commute more efficient and eco-friendly.But Yulu has recently suffered considerable dips in its revenues. So here we are trying to find factors on which the demand for these shared electric cycles in India depends. 
